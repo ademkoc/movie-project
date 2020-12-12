@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Flash",
+      "rating": 8.3,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Superman",
+      "rating": 7.6,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg"
+    },
+    {
+      "name": "Monsters of Man",
+      "rating": "5.7",
+      "imageURL": "https://turkcealtyazi.org/images/poster/6456326.jpg",
+      "overview": "Bir robotik şirketi, yasadışı, onaylanmamış bir askeri operasyona giren yozlaşmış bir CIA ajanıyla iş birliği yapar. Altın üçgende kimsenin gözden kaçırmayacağı şüpheli uyuşturucu üretim kampına dört prototip robotu düşürmek. Görev, robotik şirketinin kârlı bir askeri sözleşme kazanmaya layık olduğunu kanıtlamaktır. İyi bir amaç için çalışan altı doktor, masum bir köyün acımasızca katledilmesine tanık olur ve yeni hedefler haline gelirken ölümcül bir kedi ve fare oyununa zorlanır.",
+      "id": 7
+    },
+    {
+      "name": "The Prom",
+      "rating": "6.0",
+      "overview": "Krizin eşiğinde olan New Yorklu oyuncular Dee Dee Allen’ın ve Barry Glickman’ın maliyetli yeni Broadway şovları, kariyerlerinin yükselmesinin önüne geçen büyük bir başarısızlık olmuştur. Bu sırada, Indiana’nın küçük bir kasabasında, bir lise öğrencisi olan Emma Nolan, lise müdürünün desteğine rağmen, okul aile birliğinin kız arkadaşı Alyssa ile baloya katılmasını yasaklamasından dolayı mutsuz günler geçirir. Dee Dee ve Barry, Emma’nın çıkmazının kendilerine güzel bir imaj yaratmak için mükemmel bir fırsat olacağını düşünür ve diğer oyuncu arkadaşları Angie ve Trent ile beraber yola çıkarlar. Ancak, bencil planları beklenmedik bir şekilde geri teper ve yıldızların hayatları alt üst olur.",
+      "imageURL": "https://turkcealtyazi.org/images/poster/10161886.jpg",
+      "id": 9
+    }
+  ]
+}
